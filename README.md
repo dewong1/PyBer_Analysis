@@ -19,13 +19,13 @@ According to the ride-sharing data gathered (*Total Rides*, *Total Drivers*, *To
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107021231/178688053-b8e6bf6f-eff0-4764-8431-d050ecdd077d.png)
 
-For the total weekly fares for each city type, all cities (rural, suburban, urban) share a peak/rise sometime around late February, and then a dip/drop as March approaches. From the month of March to April, Urban cities' total fare amount drastically fluctuates; Suburban cities' total fare amount has a steady rise till mid-March and then a steady drop as April approaches; and Rural area's total fare amount fluctuates as well (but not as drastic as urban's)
+For the total weekly fares for each city type, all cities (rural, suburban, urban) share a peak/rise sometime around late February, and then a dip/drop as March approaches. From the month of March to April, Urban cities' total fare amount drastically fluctuates; Suburban cities' total fare amount has a steady rise till mid-March and then a steady drop as April approaches; and Rural area's total fare amount fluctuates as well (but not as drastic as urban's).
 
 ## Summary
 
 ### Three recommendations for addressing any disparities among city types 
 
-During the month of April, unlike rural and urban cities, suburban cities' total fare significantly increases after a small dip. The company can conduct some research to find the reason(s) behind the significant increases, especially because the total fare decreases for the other city types. From the results of their research findings, they can plan accordingly. 
+During the month of April, unlike rural and urban cities, suburban cities' total fare significantly increases after a small dip. The company can conduct some research to find the reason(s) behind the significant increase, especially because the total fare decreases for the other city types. From the results of their research findings, they can plan accordingly. 
 
 Based off the data, we also see the correlation between *Avergae Fare per Ride* and *Average Fare per Driver* is higher when there are less drivers (rural). The company can influence the ride-share prices by changing (e.g. decreasing or increasing) the number of drivers during a certain time. 
 
