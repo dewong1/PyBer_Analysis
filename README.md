@@ -25,5 +25,9 @@ For the total weekly fares for each city type, all cities (rural, suburban, urba
 
 ### Three recommendations for addressing any disparities among city types 
 
-The 
+During the month of April, unlike Rural and Urban cities, Suburban cities' total fare significantly increases after a small dip. The company can conduct some research to find the reason(s) behind the significant increases, especially because the total fare decreases for the other city types. From the results of their research findings, they can plan accordingly. 
+
+Based off the data, we also see the correlation between *Avergae Fare per Ride* and *Average Fare per Driver* is higher when there are less drivers (rural). The company can influence the ride-share prices by changing (e.g. decreasing or increasing) the number of drivers during a certain time. 
+
+In addition, the *Average Fare per Driver* is significantly higher in rural areas ($55.49) than urban cities ($16.57). This may indiciate that the number of drivers in rural areas are much lower. The company may want to allocate more drivers to rural areas.   
 
